@@ -1,0 +1,9 @@
+{
+    "ros.distro": "melodic",
+    "python.autoComplete.extraPaths": [
+        "/home/pmjd/Disk/anaconda3/envs/wjj/lib/python3.6/site-packages"
+    ],
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.condaPath": "/home/pmjd/Disk/anaconda3/bin/conda",
+    "python.defaultInterpreterPath": "/home/pmjd/Disk/anaconda3/envs/wjj/bin/python"
+}
